@@ -1,0 +1,4 @@
+#Sun Oct 13 13:34:33 EDT 2024
+base.0=C\:\\M.A.D\\HW3\\hw3\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
